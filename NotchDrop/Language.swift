@@ -2,8 +2,6 @@
 //  Language.swift
 //  NotchDrop
 //
-//  Created by 秋星桥 on 2024/7/31.
-//
 
 import Cocoa
 
