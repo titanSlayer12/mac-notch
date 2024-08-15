@@ -2,7 +2,7 @@
 //  Ext+NSScreen.swift
 //  NotchDrop
 //
-//  Created by 秋星桥 on 2024/7/7.
+
 //
 
 import Cocoa
