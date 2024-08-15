@@ -2,8 +2,7 @@
 //  NotchSettingsView.swift
 //  NotchDrop
 //
-//  Created by 曹丁杰 on 2024/7/29.
-//
+
 
 import LaunchAtLogin
 import SwiftUI
