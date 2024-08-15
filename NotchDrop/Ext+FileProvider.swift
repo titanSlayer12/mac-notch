@@ -2,7 +2,7 @@
 //  Ext+FileProvider.swift
 //  NotchDrop
 //
-//  Created by 秋星桥 on 2024/7/8.
+//  Created by sudhir
 //
 
 import Cocoa
